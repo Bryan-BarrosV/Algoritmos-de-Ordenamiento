@@ -2,7 +2,7 @@
 
 **Carrera:** Computación  
 **Asignatura:** Estructura de Datos  
-**Práctica:** 4.2 – Algoritmos de Ordenamiento  
+**Práctica:** 4.2  – Algoritmos de Ordenamiento  
 **Autores:** *Bryan Barros y Erika Collaguazo*  
 **Docente:** Ing. Pablo Torres
 
